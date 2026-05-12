@@ -1,7 +1,7 @@
 # Faster RCNN Pedestrian Detection for NAO Robot
 
 Student Name: Md Amjad Hossain Khan | Student ID: st20341331  
-CIS7034 - Vision with Deep Learning (PRAC1) - Practice 2
+CIS7034 - Vision with Deep Learning (PRAC1) - Practice 2  
 Module Leader: Dr. Sandeep Singh Sengar
 ---
 
