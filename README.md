@@ -89,11 +89,10 @@ I included all the training code in the notebook though, just commented out, to 
 ## Files
 
 ```
-notebook/        - Jupyter notebook with everything
-server/          - Flask server code for laptop  
-nao/             - Python script for NAO robot
-docs/            - Project report
-demo/            - Demo video link
+st20341331 CIS7034 PRAC1.ipynb       - Jupyter notebook with everything
+Nao Server.py                        - Flask server code for laptop  
+nao Python Script                    - Python script for NAO robot
+docs/                                - Project report
 ```
 
 ## Running It
@@ -134,7 +133,7 @@ And edge computing is a practical solution when your robot doesn't have the hors
 
 ## Demo
 
-[Watch the full demo on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[Watch the full demo on OneDrive](https://outlookuwicac-my.sharepoint.com/:v:/g/personal/st20341331_outlook_cardiffmet_ac_uk/IQDV-w-ItAJtSoPFyj2dh-eqAUNhzf2oemS5y6aBDf-F1Sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tEa5AF)
 
 Shows the notebook, explains the code, and demonstrates NAO detecting people in real-time.
 
@@ -150,7 +149,7 @@ numpy>=1.19.0
 
 ## Credits
 
-Built by Amjad Khan for CIS7034 coursework at Cardiff Met.
+Built by Md Amjad Hossain Khan for CIS7034 PRAC1 at Cardiff Metropolitan University.
 
 Dataset: COCO 2017  
 Model: Faster RCNN (Ren et al., 2015)  
