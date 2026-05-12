@@ -7,7 +7,7 @@ Module Leader: Dr. Sandeep Singh Sengar
 
 ## What This Is
 
-My coursework project where I built a pedestrian detection system for the NAO humanoid robot. The robot can now detect people in real-time using a camera and deep learning.
+My coursework for PRAC1 project where I built a pedestrian detection system for the NAO humanoid robot. The robot can now detect people in real-time using a camera and deep learning.
 
 The challenge was that NAO's processor is way too weak to run deep learning models, so I had to get creative with edge computing - basically offloading the heavy work to my laptop.
 
