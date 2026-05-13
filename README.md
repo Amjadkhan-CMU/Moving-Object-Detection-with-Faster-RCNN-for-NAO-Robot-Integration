@@ -86,15 +86,6 @@ I included all the training code in the notebook though, just commented out, to 
 - 30ms network latency each way
 - Total: ~200ms per detection
 
-## Files
-
-```
-st20341331 CIS7034 PRAC1.ipynb       - Jupyter notebook with everything
-Nao Server.py                        - Flask server code for laptop  
-nao Python Script                    - Python script for NAO robot
-docs/                                - Project report
-```
-
 ## Running It
 
 **Start the server:**
